@@ -5,7 +5,7 @@
   </h1>
 
   <p style="max-width: 650px; font-size: 16px; color: #e6eef4; line-height: 1.6;">
-    Estudante de Engenharia de Software e apaixonada por tecnologia, dados, automação 
+    Profissional de dados e estudante de Engenharia de Software. Sou apaixonada por tecnologia
     e por transformar informação em impacto real no dia a dia.
   </p>
 
