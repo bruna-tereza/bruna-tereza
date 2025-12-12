@@ -5,8 +5,8 @@
   </h1>
 
   <p style="max-width: 650px; font-size: 16px; color: #e6eef4; line-height: 1.6;">
-    Profissional de dados e estudante de Engenharia de Software. Sou apaixonada por tecnologia
-    e por transformar informação em impacto real no dia a dia.
+    Profissional de Dados e estudante de Engenharia de Software. Sou movida por resolver problemas reais,
+    construir processos eficientes, facilitar rotinas desnecessariamente complexas e transformar dados em decisões estratégicas.
   </p>
 
 </div>
@@ -17,20 +17,21 @@
 <h3 style="color:#bcd7e8;">✨ Resumo Profissional</h3>
 
 <p style="line-height:1.65; color:#e6eef4;">
-  Minha trajetória começou em 2019 na área comercial, migrando posteriormente para inteligência comercial, 
-  onde desenvolvi visão de negócio e compreensão profunda sobre como dados orientam estratégias.
+  Minha trajetória começou na área comercial em 2019, evoluindo para inteligência comercial, RevOps e, posteriormente,
+  engenharia e análise de dados, uma combinação que me deu visão de negócio, habilidade técnica e foco em eficiência.
 </p>
 
 <p style="line-height:1.65; color:#e6eef4;">
-  Atuei como <strong>Especialista de Dados Full Stack</strong>, construindo uma arquitetura de dados completa (Data Lakehouse) 
-  em <strong>AWS</strong> (utilizando S3, Glue e Athena) com pipelines automatizados em <strong>Python</strong>. 
-  Também liderei a criação de um <strong>Framework de Governança de Dados</strong>, apoiando a consolidação de uma cultura data-driven.
+  Atuei como <strong>Especialista de Dados Full Stack</strong>, estruturando do zero uma arquitetura completa em <strong>AWS</strong>
+  (S3, Glue, Athena) com pipelines automatizados em <strong>Python</strong> e princípios de Data Lakehouse. Também liderei a criação
+  de um <strong>Framework de Governança de Dados</strong>, garantindo qualidade, confiabilidade e escalabilidade das informações.
 </p>
 
 <p style="line-height:1.65; color:#e6eef4;">
-  Desenvolvi dashboards e análises avançadas em <strong>Power BI</strong> e <strong>Metabase</strong>, além de modelos de Machine Learning voltados à predição 
-  e suporte à tomada de decisão. Desde 2023, atuo como consultora de dados para startups e pequenas empresas, 
-  trabalhando com governança, boas práticas, automação, pipelines, motores sintéticos e orquestração de soluções.
+  Desenvolvo análises avançadas e dashboards estratégicos em <strong>Power BI</strong> e <strong>Metabase</strong>, além de modelos
+  preditivos voltados à eficiência comercial, retenção e impacto no negócio. Desde 2023, atuo como 
+  <strong>consultora de Dados & RevOps</strong> para startups e pequenas empresas, implementando governança, automações,
+  pipelines, orquestração e otimização de operações de receita.
 </p>
 
 
@@ -39,9 +40,10 @@
 <h3 style="color:#bcd7e8;">🦋 Atualmente</h3>
 
 <ul style="line-height:1.8; color:#e6eef4;">
-  <li>Apoiando o crescimento sustentável de negócios a partir de dados;</li>
-  <li>Aprofundando meus estudos em Machine Learning, arquitetura de pipelines e visão de negócio;</li>
-  <li>Explorando a cafeicultura e aplicando conhecimentos técnicos de dados em agricultura de precisão no negócio da minha família.</li>
+  <li>Conectando dados, estratégia e operação para acelerar crescimento;</li>
+  <li>Automatizando rotinas e processos "chatos" que encontro por aí.;</li>
+  <li>Aprofundando conhecimentos em Machine Learning, arquitetura de pipelines e eficiência operacional;</li>
+  <li>Estudando técnicas de agricultura de precisão, aplicadas à cafeicultura. </li>
 </ul>
 
 
@@ -93,9 +95,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-
-
-
 <hr style="border: 0.5px solid #bcd7e8; margin: 40px 0;" />
 
 
@@ -123,4 +122,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
